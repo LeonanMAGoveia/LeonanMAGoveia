@@ -1,33 +1,61 @@
-<h1 align="center">Olá! 👋 Eu sou o Leonan Matheus</h1>
+<!-- README.md para LeonanMAGoveia -->
+
+<h1 align="center">Olá! 👋 Me chamo Leonan Matheus</h1>
+<h3 align="center">Estudante de programação e futuro Front-End Developer</h3>
+
+---
 
 <p align="center">
-  🌱 Estudante de Desenvolvimento Front-End <br>
-  🚀 Buscando evoluir como Dev e transformar ideias em código! <br>
-  💻 Apaixonado por tecnologia, boas práticas e aprendizado contínuo
+  <img src="https://komarev.com/ghpvc/?username=LeonanMAGoveia&label=Profile%20views&color=0e75b6&style=flat" alt="LeonanMAGoveia" />
 </p>
 
 ---
 
-### 🛠️ Tecnologias que estou aprendendo:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
+### ✨ Sobre mim
+
+- 📚 Estudando programação e participando de cursos técnicos e projetos práticos  
+- 💻 Apaixonado por desenvolvimento web (HTML, CSS, JS)  
+- 🚀 Buscando minha primeira oportunidade na área de tecnologia  
+- 🌱 Sempre aprendendo algo novo!
 
 ---
 
-### 📊 Estatísticas do GitHub
+### ⚙️ Habilidades
 
-![Leonan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonanMAGoveia&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonanMAGoveia&layout=compact&theme=radical)
-
----
-
-### 📫 Vamos conversar?
-
-[![LinkedIn](https://img.shields.io/badge/-LeonanMatheus-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonanmatheus/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/LeonanMAGoveia)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+</p>
 
 ---
 
-<p align="center">Feito com 💙 por Leonan Matheus</p>
+### 🔥 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonanMAGoveia&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonanMAGoveia&layout=compact&theme=radical"/>
+</div>
+
+---
+
+### 📌 Projetos em Destaque
+
+- 🛠️ [Gerenciador de tarefas](https://github.com/LeonanMAGoveia/RID184814_Desafio03_DNC.git)
+- Tem muito mais por vir
+
+---
+
+### 💡 Frase que me representa
+
+> “A persistência realiza o impossível.” – Provérbio Chinês
+
+---
+
+### 📫 Contato
+
+- LinkedIn: [Leonan Matheus](https://www.linkedin.com/in/leonanmatheus/)
+- GitHub: [LeonanMAGoveia](https://github.com/LeonanMAGoveia)
+
+---
