@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src="https://raw.githubusercontent.com/LeonanMAGoveia/LeonanMAGoveia/main/github-metrics.svg" alt="GitHub Metrics" />
 
 <!--
 **LeonanMAGoveia/LeonanMAGoveia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
