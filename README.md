@@ -43,7 +43,7 @@
 ### 📌 Projetos em Destaque
 
 - 🛠️ [Gerenciador de tarefas](https://github.com/LeonanMAGoveia/RID184814_Desafio03_DNC.git)
-- Tem muito mais por vir
+- Tem muito mais por vir...
 
 ---
 
